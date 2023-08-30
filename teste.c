@@ -1,6 +1,3 @@
 //TESTE DO GIT
 
-int main(){
-
-    return 0;
-}
+//ESSE ARQUIVO É SÓ UM TESTE
